@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * _isupper - Entry point
+ * @c: char
  * Return: 0 or 1
  */
 int _isupper(int c)
